@@ -1,6 +1,7 @@
 ## Hi there ✨
 
-UCtLKx3gDXGzfm_l1rDdb9yw
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCtLKx3gDXGzfm_l1rDdb9yw?style=social)
+
 
 <!--
 **RayshaanFish/RayshaanFish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
